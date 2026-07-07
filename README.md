@@ -8,9 +8,9 @@ Builder at the intersection of software, capital, and property. I ship productio
 
 I build software for financial services, then turn around and use the same analytical instincts on real estate and equity markets. My work spans three lanes that keep informing each other:
 
-**Engineering** - Microservices for banking clients at IBM, a RAG platform built and debugged in production, and a GPT trained from scratch in PyTorch just to understand the architecture down to the tensor.
+**Engineering** - Microservices for banking clients at IBM, a RAG platform built and debugged in production, and a GPT trained from scratch in PyTorch just to understand the architecture down to the tensor level.
 
-**Founding** - SectionM8, a Section 8 investor analytics platform, and Tuner Design LLC, an automotive business I started at 18 and still run as an S-Corp.
+**Founding** - SectionM8, a Section 8 investor analytics platform, and Tuner Design LLC, an automotive business I started at 18 and still run under an S-Corp holding company.
 
 **Markets and Property** - A self-directed equity portfolio and a real estate license I use to actually understand the assets I analyze, not just the spreadsheets describing them.
 
