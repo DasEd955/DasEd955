@@ -8,15 +8,15 @@ Builder at the intersection of software, capital, and property. I ship productio
 
 I build software for financial services, then turn around and use the same analytical instincts on real estate and equity markets. My work spans three lanes that keep informing each other:
 
-**Engineering** - Microservices for banking clients at IBM, a RAG platform built and debugged in production, and a GPT trained from scratch in PyTorch just to understand the architecture down to the tensor.
+**Engineering** - Microservices for banking clients at IBM, a RAG platform built and debugged in production, and a GPT trained from scratch in PyTorch just to understand the architecture down to the tensor level.
 
-**Founding** - SectionM8, a Section 8 investor analytics platform, and Tuner Design LLC, an automotive business I started at 18 and still run as an S-Corp.
+**Founding** - SectionM8, a Section 8 investor analytics platform, and Tuner Design LLC, an automotive business I started at 18 and still run under an S-Corp holding company.
 
 **Markets and Property** - A self-directed equity portfolio and a real estate license I use to actually understand the assets I analyze, not just the spreadsheets describing them.
 
 ## Three Things I Do
 
-**Engineer.** I write production code for financial services at IBM, debug multi-service RAG platforms as a CodePath x Anthropic AI/ML Fellow, and built a GPT from scratch in PyTorch to understand transformers at the tensor level rather than the API level.
+**Engineer.** I write production code for financial service partners at IBM, debug multipurpose RAG platforms as a CodePath x Anthropic AI/ML Fellow, and built a GPT from scratch in PyTorch to understand transformers at the tensor level rather than the API level.
 
 **Found companies.** SectionM8 turns Section 8 housing data into investor-grade analytics. Tuner Design LLC started as a one-person operation at 18 and now runs as an S-Corp serving commercial and retail clients. Together they've generated over $150k in revenue in three years, self-funded, no outside capital.
 
@@ -24,13 +24,13 @@ I build software for financial services, then turn around and use the same analy
 
 ## 🛠️ Technical Toolkit
 
-**Languages:** Python, C, Java, SQL, TypeScript
+**Languages:** Python, C, C++, Java, SQL, TypeScript
 
-**AI/ML:** PyTorch, DistilBERT, RAG pipelines, FastAPI, prompt engineering, LLM evaluation
+**AI/ML:** PyTorch, Scikit-learn, DistilBERT, RAG pipelines, FastAPI, Prompt Engineering, LLM Evaluation
 
-**Systems:** Concurrent programming (pthreads, select-based I/O multiplexing), microservices, REST APIs
+**Systems:** Concurrent Programming (pthreads, select-based I/O multiplexing), Microservices, REST APIs
 
-**Data and Finance:** Portfolio analysis, statistical modeling, financial data pipelines
+**Data and Finance:** Portfolio Analysis, Statistical Modeling, Financial Data Pipelines, NumPy, Pandas
 
 ## 🚀 Featured Projects
 
@@ -42,7 +42,7 @@ I build software for financial services, then turn around and use the same analy
 
 🔹 **Stocks Subreddit Discourse Classifier** - DistilBERT model scoring discourse quality on r/stocks, 85.1% accuracy
 
-🔹 **AttributionLens** - AI authorship detection with a weighted confidence scoring system (LLM signal weighted 0.6, stylistic signal 0.4, asymmetric verdict threshold at 0.65 confidence)
+🔹 **AttributionLens** - AI authorship detection engine with a weighted confidence scoring system (LLM signal weighted 0.6, stylistic signal 0.4, asymmetric verdict threshold at 0.65 confidence)
 
 🔹 **Portfolio Analysis Dashboard** - Tooling for tracking and analyzing a self-managed, market-beating equity portfolio
 
